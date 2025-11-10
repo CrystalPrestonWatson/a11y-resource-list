@@ -9,7 +9,6 @@ A curated list of digital accessibility resources I recommend for those new to d
 - [Legal and Policy Analysis](#legal-and-policy-analysis)
 - [Accessibility Information](#accessibility-information)
 - [Accessibility Training](#accessibility-training)
-- [About this list](#about-this-list)
 
 ---
 
